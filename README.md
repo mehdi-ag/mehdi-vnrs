@@ -1,6 +1,6 @@
 # Vanity Name Registering System
 
-[![Coverage Status](https://coveralls.io/repos/github//HussainMehdi/mehdi-vnrs/badge.svg?t=isxTCL)](https://coveralls.io/repos/github//HussainMehdi/mehdi-vnrs/badge.svg?t=isxTCL)
+[![Coverage Status](https://coveralls.io/repos/github/mehdi-ag/mehdi-vnrs/badge.svg?branch=master)](https://coveralls.io/github/mehdi-ag/mehdi-vnrs?branch=master)
 
 # How to Run
 
@@ -14,6 +14,7 @@ yarn
 
 ```bash
 yarn clean:all
+yarn build
 yarn test
 ```
 
